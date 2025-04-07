@@ -1,0 +1,3 @@
+[submodule "libs/easy-flows"]
+	path = libs/easy-flows
+	url = https://github.com/albertoclarit/easy-flows.git
