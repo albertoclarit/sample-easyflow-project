@@ -2,4 +2,4 @@ git submodule add  https://github.com/albertoclarit/easy-flows.git libs/easy-flo
 git submodule update --init --recursive
 git add .gitmodules libs/easy-flows # for tracking on git
 
-git clone --recurse-submodules https://github.com/albertoclarit/jeasy-flow.git
+git clone --recurse-submodules https://github.com/albertoclarit/sample-easyflow-project.git
